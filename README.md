@@ -1,9 +1,5 @@
 # 🛢️ Plantova: Automating the Oil & Gas EPC 3D Modeling Supply Chain
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/[YOUR_DISCORD_ID]?label=discord)](https://discord.gg/[YOUR_INVITE_LINK])
-
 > **"If you want to contribute to automating the entire 3D modeling supply chain for Oil & Gas and Heavy Industrial EPC, come join this project!"**
 
 Welcome to **Plantova**! We are building an open-source, end-to-end pipeline designed to automate the creation, conversion, and intelligence-tagging of 3D engineering models for the Oil & Gas EPC sector. 
